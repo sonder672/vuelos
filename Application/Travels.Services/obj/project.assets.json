@@ -1,0 +1,130 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Travels.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Travels.DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Travels.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Travels.Contracts.dll": {}
+        }
+      },
+      "Travels.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Travels.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Travels.Domain.dll": {}
+        }
+      },
+      "Travels.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Travels.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Travels.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Travels.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Travels.Contracts/Travels.Contracts.csproj",
+      "msbuildProject": "../Travels.Contracts/Travels.Contracts.csproj"
+    },
+    "Travels.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Business/Travels.Domain/Travels.Domain.csproj",
+      "msbuildProject": "../../Business/Travels.Domain/Travels.Domain.csproj"
+    },
+    "Travels.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../Travels.DTOs/Travels.DTOs.csproj",
+      "msbuildProject": "../Travels.DTOs/Travels.DTOs.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Travels.Contracts >= 1.0.0",
+      "Travels.DTOs >= 1.0.0",
+      "Travels.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/sonder/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj",
+      "projectName": "Travels.Services",
+      "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj",
+      "packagesPath": "/home/sonder/.nuget/packages/",
+      "outputPath": "/home/sonder/project/netCore/Travels/Application/Travels.Services/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/sonder/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj": {
+              "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj"
+            },
+            "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj": {
+              "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj"
+            },
+            "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj": {
+              "projectPath": "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

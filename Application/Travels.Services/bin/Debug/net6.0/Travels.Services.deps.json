@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Travels.Services/1.0.0": {
+        "dependencies": {
+          "Travels.Contracts": "1.0.0",
+          "Travels.DTOs": "1.0.0",
+          "Travels.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Travels.Services.dll": {}
+        }
+      },
+      "Travels.Contracts/1.0.0": {
+        "dependencies": {
+          "Travels.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "Travels.Contracts.dll": {}
+        }
+      },
+      "Travels.Domain/1.0.0": {
+        "runtime": {
+          "Travels.Domain.dll": {}
+        }
+      },
+      "Travels.DTOs/1.0.0": {
+        "runtime": {
+          "Travels.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Travels.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Travels.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Travels.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Travels.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

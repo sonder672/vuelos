@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business\Travels.Domain\Travels.Domain.csproj" />
+    <ProjectReference Include="..\Travels.DTOs\Travels.DTOs.csproj" />
+    <ProjectReference Include="..\Travels.Contracts\Travels.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

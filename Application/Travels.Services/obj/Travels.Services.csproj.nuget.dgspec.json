@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj": {}
+  },
+  "projects": {
+    "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj",
+        "projectName": "Travels.Contracts",
+        "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj",
+        "packagesPath": "/home/sonder/.nuget/packages/",
+        "outputPath": "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sonder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj": {
+                "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj",
+        "projectName": "Travels.DTOs",
+        "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj",
+        "packagesPath": "/home/sonder/.nuget/packages/",
+        "outputPath": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sonder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj",
+        "projectName": "Travels.Services",
+        "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.Services/Travels.Services.csproj",
+        "packagesPath": "/home/sonder/.nuget/packages/",
+        "outputPath": "/home/sonder/project/netCore/Travels/Application/Travels.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sonder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj": {
+                "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.Contracts/Travels.Contracts.csproj"
+              },
+              "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj": {
+                "projectPath": "/home/sonder/project/netCore/Travels/Application/Travels.DTOs/Travels.DTOs.csproj"
+              },
+              "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj": {
+                "projectPath": "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj",
+        "projectName": "Travels.Domain",
+        "projectPath": "/home/sonder/project/netCore/Travels/Business/Travels.Domain/Travels.Domain.csproj",
+        "packagesPath": "/home/sonder/.nuget/packages/",
+        "outputPath": "/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sonder/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
