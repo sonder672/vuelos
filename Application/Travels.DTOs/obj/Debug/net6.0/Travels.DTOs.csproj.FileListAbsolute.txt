@@ -1,0 +1,12 @@
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/bin/Debug/net6.0/Travels.DTOs.deps.json
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/bin/Debug/net6.0/Travels.DTOs.dll
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/bin/Debug/net6.0/Travels.DTOs.pdb
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.AssemblyInfo.cs
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.dll
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/refint/Travels.DTOs.dll
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/Travels.DTOs.pdb
+/home/sonder/project/netCore/Travels/Application/Travels.DTOs/obj/Debug/net6.0/ref/Travels.DTOs.dll
