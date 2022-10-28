@@ -1,0 +1,12 @@
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/bin/Debug/net6.0/Travels.Domain.deps.json
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/bin/Debug/net6.0/Travels.Domain.dll
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/bin/Debug/net6.0/Travels.Domain.pdb
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.AssemblyInfo.cs
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.dll
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/refint/Travels.Domain.dll
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/Travels.Domain.pdb
+/home/sonder/project/netCore/Travels/Business/Travels.Domain/obj/Debug/net6.0/ref/Travels.Domain.dll
