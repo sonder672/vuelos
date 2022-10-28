@@ -1,0 +1,17 @@
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.ExternalAPI.deps.json
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.ExternalAPI.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.ExternalAPI.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.DTOs.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.DTOs.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.AssemblyInfo.cs
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.csproj.CopyComplete
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/refint/Travels.ExternalAPI.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/Travels.ExternalAPI.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/obj/Debug/net6.0/ref/Travels.ExternalAPI.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.Contracts.dll
+/home/sonder/project/netCore/Travels/Infrastructure/Travels.ExternalAPI/bin/Debug/net6.0/Travels.Contracts.pdb
