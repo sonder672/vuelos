@@ -1,0 +1,18 @@
+FROM mcr.microsoft.com/mssql/server
+
+RUN mkdir -p /usr/src/app
+WORKDIR /usr/src/app
+
+COPY . /usr/src/app
+
+RUN chmod +x /usr/src/app/run-initialization.sh
+
+ENV ACCEPT_EULA=Y
+ENV SA_PASSWORD=yourStrong.Password
+
+EXPOSE 1433
+
+CMD /bin/bash ./entrypoint.sh
+
+#docker build -t sql_server . (directorio actual)
+#docker run -d --network="host" sql_server     Network=host para la conexión EF-SQL-SERVER Server=127.0.0.1

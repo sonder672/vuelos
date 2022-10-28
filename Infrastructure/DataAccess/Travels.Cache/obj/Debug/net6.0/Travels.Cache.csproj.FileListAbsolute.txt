@@ -1,0 +1,17 @@
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.Cache.deps.json
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.Cache.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.Cache.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.DTOs.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.DTOs.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.csproj.AssemblyReference.cache
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.GeneratedMSBuildEditorConfig.editorconfig
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.AssemblyInfoInputs.cache
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.AssemblyInfo.cs
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.csproj.CoreCompileInputs.cache
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.csproj.CopyComplete
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/refint/Travels.Cache.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/Travels.Cache.pdb
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/obj/Debug/net6.0/ref/Travels.Cache.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.Contracts.dll
+/home/sonder/project/netCore/Travels/Infrastructure/DataAccess/Travels.Cache/bin/Debug/net6.0/Travels.Contracts.pdb

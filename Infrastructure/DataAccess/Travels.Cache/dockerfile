@@ -1,0 +1,5 @@
+FROM 'bitnami/redis:latest'
+
+ENV REDIS_PASSWORD=password123
+
+EXPOSE 6379
